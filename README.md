@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about 
 
 - 📫 How to reach me **priyasonkar0003@gmail.com**
 
