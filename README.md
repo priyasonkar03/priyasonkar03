@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priya Sonkar</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<img align = "right" alt="colding" width ="400" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"
+<img align = "right" alt="colding" width ="200" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif"
   
 - 🌱 I’m currently learning **PHP MySQL**
 - 
