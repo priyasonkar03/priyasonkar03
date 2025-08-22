@@ -16,15 +16,15 @@
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" alt="ai" width="40" height="40"/> 
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank" rel="noreferrer"> 
+  </a> -->
+<!--   <a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank" rel="noreferrer"> 
     <img src="https://cdn-icons-png.flaticon.com/512/4149/4149670.png" alt="data analytics" width="40" height="40"/> 
-  </a> 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+  </a>  -->
+<!--   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
-  </a> 
+  </a>  -->
    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> 
   </a> 
