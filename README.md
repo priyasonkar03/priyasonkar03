@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priya Sonkar</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Data Analyst & Web Developer from India</h3>
 <!-- <img align = "right" alt="colding" width ="200" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" -->
   
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Artificial Intelligence** & **Data Analytics**
 - 📫 How to reach me **https://www.linkedin.com/in/priya-sonkar-9819ab235/**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,16 +16,7 @@
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-<!--   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712100.png" alt="ai" width="40" height="40"/> 
-  </a> -->
-<!--   <a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/4149/4149670.png" alt="data analytics" width="40" height="40"/> 
-  </a>  -->
-<!--   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
-  </a>  -->
-   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
+ <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> 
   </a> 
   <a href="https://botpress.com/" target="_blank" rel="noreferrer"> 
